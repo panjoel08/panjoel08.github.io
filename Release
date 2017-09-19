@@ -1,7 +1,8 @@
 Origin: panjoel Repo
 Label: panjoel Official Repo
 Suite: stable
-Codename: ios
+Version: 2.0
+Codename: panjoel repo
 Architectures: iphoneos-arm
 Components: main
 Description: Panjoel Repo !! 
