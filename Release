@@ -1,8 +1,8 @@
-Origin: panjoel Patch
+Origin: panjoel Official Repo
 Label: panjoel Official Repo
 Suite: stable
 Version: 2.0
-Codename: panjoel repo
+Codename: ios 
 Architectures: iphoneos-arm
 Components: main
-Description: Panjoel Repo !! 
+Description: Panjoel Official Repo !! 
